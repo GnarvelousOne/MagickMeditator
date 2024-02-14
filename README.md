@@ -1,4 +1,4 @@
-Magick Meditator
+Magick Meditator is amazing
 
 bot.py is a discord bot version
 
